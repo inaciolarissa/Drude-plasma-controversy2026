@@ -25,7 +25,7 @@ Accepted: 8 July 2026
 Revised: 7 July 2026
 Published online: 14 July 2026
 
-##Abstract
+## Abstract
 
 We propose a magnetic-fluid-based approach that enables a
 decisive test of the long-standing Drude-plasma contention in Casimir physics. We investigate the interaction between a polystyrene plate and a metallic sphere, both immersed in a magnetic fluid. The plasma model predicts a reversal of the force sign over a broad range of separations for different types of magnetic fluids, in contrast to the Drude model. This qualitative effect offers a reliable and experimentally testable approach to resolving the optical-model dispute. In addition, it opens a new avenue for tuning stability in both nano-electromechanical systems and microelectromechanical systems.
